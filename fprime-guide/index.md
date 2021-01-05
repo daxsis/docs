@@ -32,4 +32,4 @@ CTRL-C
 ## Resources
 
 - [PowerPoint About Fprime Framework](https://github.com/nasa/fprime/blob/master/docs/Architecture/FPrimeSoftwareArchitecture.pdf)
-- [Original User's Guide](https://github.com/nasa/fprime/blob/master/docs/UsersGuide/FprimeUserGuide.pdf)
+- [The Discerning User's Guide to F´](https://github.com/nasa/fprime/blob/master/docs/UsersGuide/guide.md)
